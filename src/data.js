@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React and Ruby",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./guidance-gif.gif",
     link: "https://google.com",
   },
   {
@@ -31,7 +31,6 @@ export const projects = [
     image: "./project-4.gif",
     link: "https://github.com/RochelleK/my-portfolio",
   },
-
 ];
 
 export const testimonials = [
