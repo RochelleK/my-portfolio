@@ -23,7 +23,7 @@ const Contact = () => {
                     ADDRESS
                   </h2>
                   <p className="mt-1">
-                    97 Warren St. <br />
+                    123 Main St. <br />
                     New York, NY 10007
                   </p>
                 </div>
@@ -32,7 +32,7 @@ const Contact = () => {
                     EMAIL
                   </h2>
                   <a className="text-indigo-400 leading-relaxed">
-                    reedbarger@email.com
+                    rochellekatzman@gmail.com
                   </a>
                   <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                     PHONE

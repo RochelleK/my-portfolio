@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Future Funds",
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://google.com",
   },
   {
     title: "Guidance",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://google.com",
   },
   {
     title: "DevChat",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://google.com",
   },
   {
     title: "My Portfolio",
@@ -31,14 +31,7 @@ export const projects = [
     image: "./project-4.gif",
     link: "https://github.com/RochelleK/my-portfolio",
   },
-  // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://google.com",
-  // },
+
 ];
 
 export const testimonials = [
@@ -62,7 +55,7 @@ export const skills = [
   "JavaScript",
   "React",
   "Next.js",
-  "Node",
+  "Ruby",
   "GraphQL",
   "Material UI",
 ];
