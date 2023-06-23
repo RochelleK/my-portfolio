@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React and Ruby on Rails",
     description:
       "An app that simplifies retirement planning by accurately calculating your savings trajectory, investment growth, and estimated retirement income, so you can confidently prepare for a secure and worry-free retirement.",
-    image: "./project-1.gif",
+    image: "./guidance-gif.gif",
     link: "https://github.com/RochelleK/FutureFunds",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "React",
     description:
       "An app that teaches coding syntax through a quiz game format, using the React framework. Level up your coding skills while having fun with CodeGames.",
-    image: "./project-3.gif",
+    image: "./guidance-gif.gif",
     link: "https://github.com/Aotaola/CodeGames2",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "This site right here :)",
     description:
       "My portfolio site built with React. Explore a captivating collection of stunning web development projects that showcase my expertise in front-end design, responsive layouts, and interactivity. ",
-    image: "./project-4.gif",
+    image: "./guidance-gif.gif",
     link: "https://github.com/RochelleK/my-portfolio",
   },
 ];
