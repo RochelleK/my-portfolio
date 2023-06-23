@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Future Funds",
-    subtitle: "MERN Stack",
+    subtitle: "React and Ruby on Rails",
     description:
       "An app that simplifies retirement planning by accurately calculating your savings trajectory, investment growth, and estimated retirement income, so you can confidently prepare for a secure and worry-free retirement.",
     image: "./project-1.gif",
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Guidance",
-    subtitle: "React and Ruby",
+    subtitle: "React and Ruby on Rails",
     description:
       "The ultimate app that revolutionizes your education decisions by calculating the true worth of tuition based on your expected salary, empowering you to make informed choices for a brighter financial future.",
     image: "./guidance-gif.gif",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "CodeGames",
-    subtitle: "React and Firebase",
+    subtitle: "React",
     description:
       "An app that teaches coding syntax through a quiz game format, using the React framework. Level up your coding skills while having fun with CodeGames.",
     image: "./project-3.gif",
